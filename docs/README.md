@@ -2,7 +2,7 @@
 home: true
 heroImage: /headIcon.png
 heroText: VuePress Demo
-tagline: 首页即文档
+tagline: 文档
 actionText: 快速上手 →
 actionLink: /foo/home
 features:
@@ -12,5 +12,8 @@ features:
     details: 导航栏在根目录下的 config.js 文件中配置，如含有items属性，则表现形式为下拉框,还可以继续嵌套items用于分组。
   - title: 侧边栏
     details: 侧边栏配置方式有多种，本篇中详细配置查看具体文件下内容。
-footer: <a href="https://beian.miit.gov.cn/" target="_blank">渝ICP备2020013402号-1</a> | Copyright © 2020-present Evan You
 ---
+
+::: slot footer
+[渝 ICP 备 2020013402 号-1](https://beian.miit.gov.cn/) | Copyright © 2020-present
+:::
