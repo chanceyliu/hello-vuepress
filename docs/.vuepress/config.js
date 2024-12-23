@@ -1,7 +1,7 @@
 module.exports = {
   title: "文档",
   description: "测试专用",
-  base: "/hello-vuepress/",
+  base: "./",
   themeConfig: {
     // logo: "./headLogo.png",
     nav: [
