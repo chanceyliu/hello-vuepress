@@ -1,7 +1,7 @@
 module.exports = {
-  title: "刘翔宇的文档",
+  title: "文档",
   description: "测试专用",
-  base: "/",
+  base: "/hello-vuepress/",
   themeConfig: {
     // logo: "./headLogo.png",
     nav: [
