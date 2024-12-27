@@ -15,5 +15,5 @@ features:
 ---
 
 ::: slot footer
-[渝 ICP 备 2020013402 号-1](https://beian.miit.gov.cn/) | Copyright © 2020-present
+[渝ICP备2020013402号-1](https://beian.miit.gov.cn/) | Copyright © 2020-present
 :::
